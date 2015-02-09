@@ -16,6 +16,7 @@ gem "paperclip"
 gem "cocaine", "= 0.5.3"
 gem 'carrierwave'
 gem 'mini_magick'
+gem 'devise'
 #gem "therubyracer"
 #gem "less-rails"
 #gem "twitter-bootstrap-rails"
